@@ -8,6 +8,7 @@ ingredients = [
 
 def sandwich_request(ingredients, order) 
   ingredients[0][1]
+  puts sandwich_request
 end
 
 # # example city_info hash
